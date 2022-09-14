@@ -15,6 +15,7 @@ public class Main{
         System.out.println("f = " + f);
         System.out.println("i = " + i);
         System.out.println("y = " + y);
+        system.out.println();
     }
 }
 
