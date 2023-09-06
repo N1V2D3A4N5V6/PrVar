@@ -17,6 +17,7 @@ public class Main{
         System.out.println("y = " + y);
         System.out.println(c2);
         System.out.println();
+        System.out.println();
     }
 }
 
